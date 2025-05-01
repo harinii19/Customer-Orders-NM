@@ -1,4 +1,4 @@
-package com.jothisri.customer_orders;
+package com.harini.customer_orders;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
